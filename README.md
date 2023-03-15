@@ -42,7 +42,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ [https://mymoviz-frontend-azure.vercel.app/](https://mymoviz-frontend-azure.vercel.app/)
+⇒ [https://tickethack-frontend-five.vercel.app/](https://tickethack-frontend-five.vercel.app/)
 
 ## 🧑‍💻 Authors
 
